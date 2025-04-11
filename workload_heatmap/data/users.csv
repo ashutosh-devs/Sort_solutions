@@ -1,0 +1,111 @@
+user_id,name,email,timezone,availability_schedule,role
+1,Priya Sharma,priya.sharma@example.co.in,Asia/Kolkata,"Mon-Fri 9:30-6:30",Member
+2,Rahul Kumar,rahul.kumar@mycompany.in,Asia/Kolkata,"Mon-Fri 10:00-7:00",Member
+3,Sneha Patel,sneha.p@email.com,Asia/Kolkata,"Flexible",Member
+4,Amit Singh,amit.singh@techsolutions.in,Asia/Kolkata,"Mon-Fri 9:00-6:00",Admin
+5,Anjali Gupta,anjali.gupta@serviceprovider.net,Asia/Kolkata,"Part-Time MWF 10-3",Member
+6,Vikram Reddy,vikram.r@domain.co.in,Asia/Kolkata,"Varies",Member
+7,Pooja Desai,pooja.d@mailhost.com,Asia/Kolkata,"Mon-Fri 9:00-5:00",Member
+8,Arjun Nair,arjun.nair@corporate.in,Asia/Kolkata,"Mon-Sat 9-7",Member
+9,Meera Iyer,meera.iyer@research.org,Asia/Kolkata,"Project Based",Member
+10,Rajesh Joshi,rajesh.j@webmail.in,Asia/Kolkata,"Mon-Fri 10-6",Member
+11,Kavita Rao,kavita.rao@myorg.co.in,Asia/Kolkata,"Mon-Fri 9:30-6:30",Member
+12,Sanjay Mehta,sanjay.mehta@startup.in,Asia/Kolkata,"Flexible",Member
+13,Deepika Agarwal,deepika.a@globalcorp.com,Asia/Kolkata,"As needed",Admin
+14,Nikhil Menon,nikhil.m@techie.com,Asia/Kolkata,"Night Owl",Member
+15,Sunita Choudhury,sunita.c@consulting.co.in,Asia/Kolkata,"Mon-Fri 8-5",Member
+16,Manish Verma,manish.v@digital.in,Asia/Kolkata,"Evenings/Weekends",Member
+17,Riya Saxena,riya.s@edu.in,Asia/Kolkata,"School Hours",Member
+18,Aditya Shah,aditya.shah@retail.co.in,Asia/Kolkata,"Mon-Fri 10-7",Member
+19,Preeti Biswas,preeti.b@creative.net,Asia/Kolkata,"Flexible Hours",Member
+20,Alok Jain,alok.jain@innovate.in,Asia/Kolkata,"Whenever Inspired",Admin
+21,Shalini Dubey,shalini.d@email.com,Asia/Kolkata,"Sporadic",Member
+22,Varun Malhotra,varun.m@finance.co.in,Asia/Kolkata,"Training Schedule",Member
+23,Geeta Krishnan,geeta.k@pharma.in,Asia/Kolkata,"Mon-Fri 9-5:30",Member
+24,Karan Khanna,karan.k@media.net,Asia/Kolkata,"Always On Call",Member
+25,Neha Yadav,neha.yadav@ngo.org,Asia/Kolkata,"Flexible",Member
+26,Sumit Ahuja,sumit.ahuja@hospitality.in,Asia/Kolkata,"Shift Based",Member
+27,Isha Bhatia,isha.bhatia@travel.co.in,Asia/Kolkata,"Mostly Traveling",Member
+28,Mohan Prasad,mohan.prasad@gov.in,Asia/Kolkata,"Govt Hours 10-5",Member
+29,Divya Chatterjee,divya.c@artgallery.in,Asia/Kolkata,"Gallery Hours",Member
+30,Rohan Kapoor,rohan.kapoor@filmprod.co.in,Asia/Kolkata,"Shoot Dependent",Member
+31,Shreya Ghosh,shreya.ghosh@music.in,Asia/Kolkata,"Studio Time",Member
+32,Tarun Bajaj,tarun.bajaj@sports.co.in,Asia/Kolkata,"Training Mornings",Member
+33,Vidya Balan,vidya.balan@acting.com,Asia/Kolkata,"As Per Schedule",Admin
+34,Harish Rawat,harish.rawat@politics.in,Asia/Kolkata,"Campaign Trail",Member
+35,Jyoti Singh,jyoti.singh@legal.co.in,Asia/Kolkata,"Case Dependent",Member
+36,Manoj Tiwari,manoj.t@realty.in,Asia/Kolkata,"Client Meetings",Member
+37,Kirti Nagpal,kirti.nagpal@fashion.co.in,Asia/Kolkata,"Design Cycle",Member
+38,Lalit Modi,lalit.modi@ipl.in,Asia/Kolkata,"Management Hours",Admin
+39,Mukesh Ambani,mukesh.a@reliance.com,Asia/Kolkata,"Business Hours",Admin
+40,Nita Dalal,nita.dalal@foundation.org,Asia/Kolkata,"Flexible",Member
+41,Om Prakash,om.prakash@spiritual.org,Asia/Kolkata,"Meditative",Member
+42,Parul Chauhan,parul.c@television.in,Asia/Kolkata,"Shooting Schedule",Member
+43,Queen Rani,queen.rani@royal.in,Asia/Kolkata,"Royal Duties",Admin
+44,Rohit Sharma,rohit.sharma@cricket.in,Asia/Kolkata,"Match Days",Member
+45,Sachin Tendulkar,sachin.t@masterblaster.com,Asia/Kolkata,"Post Retirement",Member
+46,Tina Ambani,tina.a@hospital.in,Asia/Kolkata,"Flexible",Member
+47,Usha Uthup,usha.uthup@singer.in,Asia/Kolkata,"Concert Tours",Member
+48,Vijay Mallya,vijay.m@kingfisher.com,Europe/London,"Fugitive",Member
+49,Waheeda Rehman,waheeda.r@classicfilms.in,Asia/Kolkata,"Semi-Retired",Admin
+50,Xavier Pinto,xavier.pinto@goa.in,Asia/Kolkata,"Teaching",Admin
+51,Yash Chopra,yash.chopra@yashraj.com,Asia/Kolkata,"Directorial",Admin
+52,Zoya Akhtar,zoya.akhtar@excelmovies.in,Asia/Kolkata,"Creative Spurts",Member
+53,Ajay Devgan,ajay.d@filmstar.co.in,Asia/Kolkata,"Shooting",Member
+54,Bipasha Basu,bipasha.b@model.in,Asia/Kolkata,"Fitness Schedule",Member
+55,Chetan Bhagat,chetan.b@author.co.in,Asia/Kolkata,"Writing Hours",Member
+56,Dia Mirza,dia.m@envoy.un,Asia/Kolkata,"Activism",Member
+57,Emraan Hashmi,emraan.h@movies.co.in,Asia/Kolkata,"Flexible",Member
+58,Farhan Akhtar,farhan.a@excelmovies.in,Asia/Kolkata,"Multi-talented",Member
+59,Gauri Khan,gauri.k@design.in,Asia/Kolkata,"Interior Design",Member
+60,Hrithik Roshan,hrithik.r@superstar.in,Asia/Kolkata,"Dance/Fitness",Member
+61,Imran Khan,imran.k@actor.in,Asia/Kolkata,"Flexible",Member
+62,Juhi Chawla,juhi.c@kalknightriders.in,Asia/Kolkata,"Team Owner",Member
+63,Kangana Ranaut,kangana.r@queen.in,Asia/Kolkata,"Vocal Hours",Member
+64,Lata Mangeshkar,lata.m@melodyqueen.in,Asia/Kolkata,"Retired",Admin
+65,Madhuri Dixit,madhuri.d@dance.in,Asia/Kolkata,"Dance Academy",Member
+66,Naseeruddin Shah,naseeruddin.s@theatre.in,Asia/Kolkata,"Stage Time",Member
+67,Om Puri,om.puri@actorlegend.in,Asia/Kolkata,"Flexible",Member
+68,Priyanka Chopra,priyanka.c@globalstar.com,America/Los_Angeles,"International",Member
+69,Quasar Thakore,quasar.t@theatre.in,Asia/Kolkata,"Stage Director",Admin
+70,Ranbir Kapoor,ranbir.k@kapoorfilms.in,Asia/Kolkata,"Shooting Schedule",Member
+71,Shabana Azmi,shabana.a@activist.in,Asia/Kolkata,"Social Work",Member
+72,Tabu Hashmi,tabu.h@versatileactor.in,Asia/Kolkata,"Selective Projects",Member
+73,Urmila Matondkar,urmila.m@politics.in,Asia/Kolkata,"Political Hours",Member
+74,Vivek Oberoi,vivek.o@actor.co.in,Asia/Kolkata,"Business/Acting",Member
+75,Yami Gautam,yami.g@fairandlovely.in,Asia/Kolkata,"Endorsements",Member
+76,Zeenat Aman,zeenat.a@classicdiva.in,Asia/Kolkata,"Semi-Retired",Member
+77,Abhishek Bachchan,abhishek.b@dynasty.in,Asia/Kolkata,"Flexible",Member
+78,Bobby Deol,bobby.d@filmfamily.in,Asia/Kolkata,"Comeback Trail",Member
+79,Celina Jaitly,celina.j@unhcr.org,Asia/Kolkata,"Goodwill Ambassador",Member
+80,Dino Morea,dino.m@modelactor.in,Asia/Kolkata,"Cafe Owner",Member
+81,Esha Deol,esha.d@filmfamily.in,Asia/Kolkata,"Family Time",Member
+82,Fardeen Khan,fardeen.k@actor.co.in,Asia/Kolkata,"Flexible",Member
+83,Govinda Ahuja,govinda.a@comedystar.in,Asia/Kolkata,"Comebacks",Member
+84,Hema Malini,hema.m@politics.in,Asia/Kolkata,"MP Duties",Admin
+85,Irrfan Khan,irrfan.k@legend.actor,Asia/Kolkata,"In Memoriam",Member
+86,John Abraham,john.a@producer.in,Asia/Kolkata,"Fitness/Production",Member
+87,Kajol Devgan,kajol.d@filmstar.co.in,Asia/Kolkata,"Selective Films",Member
+88,Lucky Ali,lucky.ali@singer.in,Asia/Kolkata,"Organic Farming",Member
+89,Mahima Chaudhry,mahima.c@actress.in,Asia/Kolkata,"Flexible",Member
+90,Nandita Das,nandita.d@director.in,Asia/Kolkata,"Direction/Activism",Admin
+91,Paresh Rawal,paresh.r@actorpolitician.in,Asia/Kolkata,"Theatre/Politics",Member
+92,Rani Mukerji,rani.m@yashraj.com,Asia/Kolkata,"Producer",Admin
+93,Saif Ali Khan,saif.ali.khan@nawab.in,Asia/Kolkata,"Royal Schedule",Member
+94,Sonali Bendre,sonali.b@bookclub.in,Asia/Kolkata,"Health Focus",Member
+95,Tusshar Kapoor,tusshar.k@producer.in,Asia/Kolkata,"Production",Member
+96,Uday Chopra,uday.c@yashraj.com,Asia/Kolkata,"Management",Admin
+97,Vidya Sinha,vidya.sinha@classicactress.in,Asia/Kolkata,"Retired",Member
+98,Zayed Khan,zayed.k@actor.co.in,Asia/Kolkata,"Flexible",Member
+99,Amrita Rao,amrita.rao@vivah.in,Asia/Kolkata,"Family Time",Member
+100,Chunky Pandey,chunky.p@comedy.in,Asia/Kolkata,"Character Actor",Member
+101,Gulshan Grover,gulshan.g@badman.in,Asia/Kolkata,"Villain Roles",Member
+102,Jackie Shroff,jackie.s@bhidu.in,Asia/Kolkata,"Cool Dad Roles",Member
+103,Kirron Kher,kirron.k@politics.in,Asia/Kolkata,"MP Duties/Acting",Member
+104,Milind Soman,milind.s@fitnessicon.in,Asia/Kolkata,"Ironman Schedule",Member
+105,Neha Dhupia,neha.d@podcast.in,Asia/Kolkata,"Podcast/Acting",Member
+106,Pooja Bhatt,pooja.b@director.in,Asia/Kolkata,"Direction",Admin
+107,Raveena Tandon,raveena.t@mastmast.in,Asia/Kolkata,"Comeback Films",Member
+108,Suniel Shetty,suniel.s@businessman.in,Asia/Kolkata,"Business/Acting",Member
+109,Twinkle Khanna,twinkle.k@mrsfunnybones.in,Asia/Kolkata,"Writing/Design",Member
+110,Vinod Khanna,vinod.k@legendactor.in,Asia/Kolkata,"In Memoriam",Admin

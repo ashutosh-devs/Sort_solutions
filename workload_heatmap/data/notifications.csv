@@ -1,0 +1,76 @@
+notification_id,user_id,task_id,message,type,sent_at,status
+301,16,104,"Reminder: Task 'Implement Task API Endpoints' is due on 2024-01-22.","DueDateReminder","2024-01-21T10:00:00Z",Sent
+302,20,105,"Reminder: Task 'Implement TimeLog API Endpoints' is due on 2024-01-24.","DueDateReminder","2024-01-23T09:30:00Z",Sent
+303,25,107,"Reminder: Task 'Add Basic Authentication' is due on 2024-01-29.","DueDateReminder","2024-01-28T11:00:00Z",Sent
+304,30,108,"Reminder: Task 'Implement Task Due Date Reminders' is due on 2024-01-26.","DueDateReminder","2024-01-25T10:00:00Z",Read
+305,35,109,"Reminder: Task 'Implement Start/End Time Logic' is due on 2024-01-31.","DueDateReminder","2024-01-30T14:00:00Z",Sent
+306,40,110,"Reminder: Task 'Manual Time Entry Feature' is due on 2024-01-31.","DueDateReminder","2024-01-30T15:00:00Z",Sent
+307,45,111,"Reminder: Task 'Setup Unit Tests' is due on 2024-01-23.","DueDateReminder","2024-01-22T09:00:00Z",Read
+308,50,112,"Reminder: Task 'Write Tests for User API' is due on 2024-01-26.","DueDateReminder","2024-01-25T09:00:00Z",Sent
+309,55,113,"Reminder: Task 'Write Tests for Task API' is due on 2024-01-30.","DueDateReminder","2024-01-29T10:00:00Z",Sent
+310,65,115,"Reminder: Task 'Prototype Auto-Scheduling Logic' is due on 2024-02-02.","DueDateReminder","2024-02-01T11:00:00Z",Sent
+311,70,116,"Reminder: Task 'Gather Data for AI Deadline Prediction' is due on 2024-02-01.","DueDateReminder","2024-01-31T15:00:00Z",Read
+312,75,117,"Reminder: Task 'Train Initial Deadline Prediction Model' is due on 2024-02-07.","DueDateReminder","2024-02-06T10:00:00Z",Sent
+313,80,118,"Reminder: Task 'Integrate Prediction Model with API' is due on 2024-02-09.","DueDateReminder","2024-02-08T11:00:00Z",Sent
+314,85,119,"Reminder: Task 'Implement Pomodoro Timer Backend Logic' is due on 2024-02-05.","DueDateReminder","2024-02-04T10:00:00Z",Sent
+315,95,121,"Reminder: Task 'Create API Endpoint for Heatmap Data' is due on 2024-02-06.","DueDateReminder","2024-02-05T09:30:00Z",Sent
+316,100,122,"Reminder: Task 'Research Auto-Reprioritization Rules' is due on 2024-02-12.","DueDateReminder","2024-02-11T11:00:00Z",Sent
+317,105,123,"Reminder: Task 'Implement Auto-Reprioritization Engine' is due on 2024-02-16.","DueDateReminder","2024-02-15T09:00:00Z",Sent
+318,10,125,"Reminder: Task 'Documentation: API Usage Guide' is due on 2024-02-15.","DueDateReminder","2024-02-14T10:00:00Z",Sent
+319,15,126,"Reminder: Task 'Documentation: Setup Instructions' is due on 2024-02-16.","DueDateReminder","2024-02-15T11:00:00Z",Sent
+320,21,127,"Reminder: Task 'Add Logging' is due on 2024-01-30.","DueDateReminder","2024-01-29T16:00:00Z",Read
+321,61,135,"Reminder: Task 'User Story: View Time Logs' is due on 2024-02-01.","DueDateReminder","2024-01-31T10:00:00Z",Sent
+322,71,137,"Reminder: Task 'User Story: Use Pomodoro Timer' is due on 2024-02-05.","DueDateReminder","2024-02-04T14:00:00Z",Sent
+323,76,138,"Reminder: Task 'User Story: View Workload Heatmap' is due on 2024-02-08.","DueDateReminder","2024-02-07T09:00:00Z",Sent
+324,81,139,"Reminder: Task 'Deployment Strategy' is due on 2024-02-20.","DueDateReminder","2024-02-19T10:00:00Z",Sent
+325,86,140,"Reminder: Task 'Setup Production Environment' is due on 2024-02-22.","DueDateReminder","2024-02-21T09:00:00Z",Sent
+326,91,141,"Reminder: Task 'Data Backup Strategy' is due on 2024-02-05.","DueDateReminder","2024-02-04T11:00:00Z",Sent
+327,96,142,"Reminder: Task 'Error Handling Improvements' is due on 2024-02-06.","DueDateReminder","2024-02-05T15:00:00Z",Sent
+328,101,143,"Reminder: Task 'Security Audit' is due on 2024-02-19.","DueDateReminder","2024-02-18T10:00:00Z",Sent
+329,106,144,"Reminder: Task 'Performance Testing (Simulated Load)' is due on 2024-02-21.","DueDateReminder","2024-02-20T14:00:00Z",Sent
+330,75,145,"Reminder: Task 'Refine AI Prediction Model' is due on 2024-02-23.","DueDateReminder","2024-02-22T10:00:00Z",Sent
+331,65,146,"Reminder: Task 'Refine Auto-Scheduling Logic' is due on 2024-02-26.","DueDateReminder","2024-02-25T11:00:00Z",Sent
+332,105,147,"Reminder: Task 'Refine Auto-Reprioritization Rules' is due on 2024-02-28.","DueDateReminder","2024-02-27T10:00:00Z",Sent
+333,110,148,"Reminder: Task 'Add Task Dependency Feature (Backend)' is due on 2024-02-14.","DueDateReminder","2024-02-13T15:00:00Z",Sent
+334,65,149,"Reminder: Task 'Update Auto-Scheduling for Dependencies' is due on 2024-02-29.","DueDateReminder","2024-02-28T10:00:00Z",Sent
+335,30,150,"Reminder: Task 'Integrate Notification Service (Email/Push)' is due on 2024-02-21.","DueDateReminder","2024-02-20T11:00:00Z",Sent
+336,18,152,"Reminder: Task 'Client Demo Prep - Phase 1' is due on 2024-01-30.","DueDateReminder","2024-01-29T10:00:00Z",Read
+337,22,153,"Reminder: Task 'Fix Bug #1023 - User Login Issue' is due on 2024-01-29.","DueDateReminder","2024-01-28T09:00:00Z",Read
+338,8,155,"Reminder: Task 'Update Dependencies (Python Packages)' is due on 2024-02-05.","DueDateReminder","2024-02-04T11:00:00Z",Sent
+339,13,156,"Reminder: Task 'Design Database Schema V2' is due on 2024-02-15.","DueDateReminder","2024-02-14T11:00:00Z",Sent
+340,19,157,"Reminder: Task 'Write Feature Proposal: Recurring Tasks' is due on 2024-02-16.","DueDateReminder","2024-02-15T14:00:00Z",Sent
+341,27,158,"Reminder: Task 'Analyze User Feedback from Survey' is due on 2024-02-07.","DueDateReminder","2024-02-06T09:00:00Z",Read
+342,96,161,"Reminder: Task 'Investigate Slow API Response Times' is due on 2024-02-09.","DueDateReminder","2024-02-08T15:00:00Z",Sent
+343,33,162,"Reminder: Task 'Create UI Mockups for Heatmap' is due on 2024-02-12.","DueDateReminder","2024-02-11T09:00:00Z",Sent
+344,4,163,"Reminder: Task 'Refine User Roles and Permissions' is due on 2024-02-09.","DueDateReminder","2024-02-08T11:00:00Z",Sent
+345,16,164,"Reminder: Task 'Implement Task Filtering API Params' is due on 2024-02-13.","DueDateReminder","2024-02-12T09:00:00Z",Sent
+346,16,165,"Reminder: Task 'Implement Task Sorting API Params' is due on 2024-02-14.","DueDateReminder","2024-02-13T10:00:00Z",Sent
+347,50,166,"Reminder: Task 'Write Integration Test for Reminders' is due on 2024-02-15.","DueDateReminder","2024-02-14T14:00:00Z",Sent
+348,1,169,"Reminder: Task 'Migrate Old Project Tasks' is due on 2024-02-20.","DueDateReminder","2024-02-19T11:00:00Z",Sent
+349,13,170,"Reminder: Task 'Prepare Internal Training on New Features' is due on 2024-02-23.","DueDateReminder","2024-02-22T10:00:00Z",Sent
+350,81,174,"Reminder: Task 'Evaluate Cloud Hosting Options' is due on 2024-02-16.","DueDateReminder","2024-02-15T11:00:00Z",Sent
+351,91,175,"Reminder: Task 'Draft Initial Privacy Policy' is due on 2024-02-22.","DueDateReminder","2024-02-21T10:00:00Z",Sent
+352,86,176,"Reminder: Task 'Set up Staging Environment' is due on 2024-02-26.","DueDateReminder","2024-02-25T11:00:00Z",Sent
+353,101,177,"Reminder: Task 'Define API Rate Limiting Strategy' is due on 2024-02-27.","DueDateReminder","2024-02-26T14:00:00Z",Sent
+354,20,178,"Reminder: Task 'Implement Basic Task Search' is due on 2024-02-28.","DueDateReminder","2024-02-27T10:00:00Z",Sent
+355,106,179,"Reminder: Task 'Review Performance Test Results' is due on 2024-02-29.","DueDateReminder","2024-02-28T11:00:00Z",Sent
+356,96,180,"Reminder: Task 'Identify Areas for Code Optimization' is due on 2024-03-01.","DueDateReminder","2024-02-29T11:00:00Z",Sent
+357,4,183,"Reminder: Task 'Address Action Items from Retrospective' is due on 2024-02-13.","DueDateReminder","2024-02-12T09:00:00Z",Sent
+358,86,184,"Reminder: Task 'Setup CI/CD Pipeline (Basic)' is due on 2024-03-04.","DueDateReminder","2024-03-03T11:00:00Z",Sent
+359,55,185,"Reminder: Task 'Test Task Dependency Logic' is due on 2024-02-23.","DueDateReminder","2024-02-22T10:00:00Z",Sent
+360,33,186,"Reminder: Task 'Develop UI for Task Dependencies' is due on 2024-03-05.","DueDateReminder","2024-03-04T09:00:00Z",Sent
+361,90,187,"Reminder: Task 'Refine Workload Heatmap Algorithm' is due on 2024-02-20.","DueDateReminder","2024-02-19T14:00:00Z",Sent
+362,12,189,"Reminder: Task 'Add User Profile Endpoint' is due on 2024-02-21.","DueDateReminder","2024-02-20T14:00:00Z",Sent
+363,4,190,"Reminder: Task 'Plan Phase 2 Features' is due on 2024-03-08.","DueDateReminder","2024-03-07T10:00:00Z",Sent
+364,101,191,"Reminder: Task 'Security Scan with Static Analysis Tool' is due on 2024-02-27.","DueDateReminder","2024-02-26T11:00:00Z",Sent
+365,10,192,"Reminder: Task 'Write User Guide for Basic Features' is due on 2024-03-06.","DueDateReminder","2024-03-05T14:00:00Z",Sent
+366,13,193,"Reminder: Task 'Investigate Alternative Data Storage (DB)' is due on 2024-03-11.","DueDateReminder","2024-03-10T10:00:00Z",Sent
+367,16,195,"Reminder: Task 'Code Review: Task API Filtering' is due on 2024-02-16.","DueDateReminder","2024-02-15T15:00:00Z",Sent
+368,10,196,"Reminder: Task 'Update API Documentation with New Endpoints' is due on 2024-03-07.","DueDateReminder","2024-03-06T14:00:00Z",Sent
+369,13,198,"Reminder: Task 'Gather Requirements for Reporting Module' is due on 2024-03-12.","DueDateReminder","2024-03-11T10:00:00Z",Sent
+370,8,199,"Task 'Resolve Merge Conflicts - Feature Branch X' (Task 199) has been assigned to you.","TaskAssignment","2024-02-07T10:00:00Z",Sent
+371,39,200,"Task 'Prepare Q1 Budget Review Materials' (Task 200) has been assigned to you.","TaskAssignment","2024-03-01T09:00:00Z",Sent
+372,18,201,"Task 'Client Demo Prep - Phase 2 Features' (Task 201) has been assigned to you.","TaskAssignment","2024-03-04T10:00:00Z",Sent
+373,30,202,"Task 'Fix Bug #1025 - Incorrect Timezone Calculation' (Task 202) has been assigned to you.","TaskAssignment","2024-02-28T10:00:00Z",Sent
+374,8,204,"Task 'Update Server OS Patches' (Task 204) has been assigned to you.","TaskAssignment","2024-03-06T11:00:00Z",Sent
+375,19,206,"Task 'Write Feature Proposal: Task Tags/Labels' (Task 206) has been assigned to you.","TaskAssignment","2024-03-08T10:00:00Z",Sent
