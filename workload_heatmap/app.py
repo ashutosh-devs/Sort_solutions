@@ -10,28 +10,23 @@ from utils.heatmap import (
     suggest_task_reallocation
 )
 
-# Set page config
 st.set_page_config(
     page_title="Task Management - Workload Heatmap",
     page_icon="📊",
     layout="wide",
 )
 
-# Main title
 st.title("📊 Workload Heatmap")
 st.markdown("### Identify overburdened team members and balance workload")
 
-# Load data
 @st.cache_data
 def get_data():
     return load_data()
 
 users_df, tasks_df, time_logs_df, dependencies_df, notifications_df = get_data()
 
-# Calculate workload
 workload_df = calculate_workload(users_df, tasks_df, time_logs_df)
 
-# Sidebar for threshold adjustment
 st.sidebar.title("Heatmap Settings")
 threshold_percentile = st.sidebar.slider(
     "Overload Threshold (Percentile)",
@@ -42,10 +37,8 @@ threshold_percentile = st.sidebar.slider(
     help="Users with workload above this percentile are considered overloaded"
 )
 
-# Identify overloaded users
 overloaded_users, threshold = identify_overloaded_users(workload_df, threshold_percentile)
 
-# Tabs for different views
 tab1, tab2, tab3 = st.tabs(["Workload Heatmap", "Overloaded Users", "Task Reallocation"])
 
 with tab1:
@@ -166,6 +159,5 @@ with tab3:
     else:
         st.success("No reallocation needed as no team members are currently overloaded.")
 
-# Footer
 st.markdown("---")
 st.caption("Workload Heatmap | Task Management System | v1.0")
