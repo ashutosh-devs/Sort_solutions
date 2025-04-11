@@ -63,7 +63,7 @@ def suggest_task_reallocation(overloaded_users, workload_df, tasks_df, dependenc
         user_tasks.sort_values(['priority', 'due_date'], ascending=[False, True], inplace=True)
 
         for _, task in user_tasks.iterrows():
-            # Skip tasks with unresolved dependencies
+            
             dependent_tasks = dependencies_df[dependencies_df['task_id'] == task['task_id']]
             if not dependent_tasks.empty:
                 incomplete_deps = dependent_tasks.merge(
@@ -74,7 +74,6 @@ def suggest_task_reallocation(overloaded_users, workload_df, tasks_df, dependenc
                 if any(incomplete_deps['status'] != 'Done'):
                     continue
 
-            # Check if a notification reminder has been recently sent (skip reallocation if so)
             recent_reminder = notifications_df[
                 (notifications_df['user_id'] == user['user_id']) &
                 (notifications_df['task_id'] == task['task_id']) &
